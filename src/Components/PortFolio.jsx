@@ -95,12 +95,12 @@ function PortFolio() {
               </div>
              <div className="px-6 py-4 flex justify-between items-center">
   <a href={videoLink} target="_blank" rel="noopener noreferrer">
-    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-4 py-2 rounded">
+    <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold px-2 py-2 rounded">
       Video
     </button>
   </a>
   <a href={sourceCodeLink} target="_blank" rel="noopener noreferrer">
-    <button className="bg-green-500 hover:bg-green-700 text-white font-bold px-4 py-2 rounded">
+    <button className="bg-green-500 hover:bg-green-700 text-white font-bold px-2 py-2 rounded">
       Source code
     </button>
   </a>
