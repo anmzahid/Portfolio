@@ -37,7 +37,7 @@ function Home() {
                         </div>
                         <br />
                         <p className="text-sm md:text-md text-justify">
-                        I am a passionate and driven Computer Science student with a strong interest in Natural Language Processing (NLP) research and full stack development (React, MySQL, NodeJs). With a solid foundation in both frontend and backend technologies, I am eager to bring my skills to projects where I can contribute to exciting developments and continue to grow.
+                        I am a passionate and driven Computer Science student with a strong interest in Natural Language Processing (NLP) and Human Computer Interaction(HCI) research , Machine Learning, and full stack development (ReactJs, MySQL, NodeJs). With a solid foundation in both frontend and backend technologies, I am eager to bring my skills to projects where I can contribute to exciting developments and continue to grow.
                         </p>
                         <br />
                         {/* social media icons */}
@@ -78,10 +78,11 @@ function Home() {
                             </div>
                         </div>
                         <div className="mt-6">
-                            <h1 className="font-bold text-center text-blue-600">Research Interest</h1>
+                            <h1 className="font-bold text-center text-blue-600">Ongoing Research Projects</h1>
                             <div className="text-center">
                                 <h2>Abstractive Text Summarization</h2>
-                                <h2>Sentiment Level in Conversation</h2>
+                                <h2>LLM Watermarking on Bangla Text</h2>
+                                <h2>Hear2Help : AI-assistance for people with hearing disabilities</h2>
                             </div>
                         </div>
                     </div>
