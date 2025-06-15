@@ -11,7 +11,7 @@ const About = () => {
             </p>
             <br />
             <h1 className='text-blue-600 font-semibold text-xl'>Education & Training</h1>
-            <span>BSc in Computer Science & Engineering (Final year) [CGPA: 3.79/4.00 </span>
+            <span>BSc in Computer Science & Engineering (Final year) [CGPA: 3.82/4.00 </span>
             <br />
             <span>HSC ,Comilla Victoria Govt. College [GPA:5.00]</span>
             <br />
