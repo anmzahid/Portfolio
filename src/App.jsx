@@ -7,6 +7,7 @@ import Footer from "./Components/Footer"
 import Experiance from "./Components/Experience"
 import Contact from "./Components/Contact"
 import { Toaster } from "react-hot-toast";
+import Certifications from "./Components/Certifications"
 export default function App() {
   return (
     
@@ -15,12 +16,14 @@ export default function App() {
         <Navbar />
         <Home />
         <About />
+        <Certifications />
         <PortFolio />
         <Experiance />
         <Contact />
         <Footer />
       </div>
       <Toaster />
+      
    
     </>
   )
